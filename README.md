@@ -1,2 +1,2 @@
 # recipe-recommendation-system
-working on it
+experimenting and finding best recommendation system for the app
